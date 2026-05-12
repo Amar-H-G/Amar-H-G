@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amar Patra</h1>
 
 <h3 align="center">
-React Native Developer 🚀
+Full Stack Developer 🚀
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ Building modern mobile applications with modern UI and smooth performance.
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=React+Native+Developer;Mobile+App+Developer;UI+Focused+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;React+Native+Developer;Mobile+App+Developer;UI+Focused+Developer" />
 
 </p>
 
