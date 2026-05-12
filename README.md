@@ -1,3 +1,7 @@
+<p align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Amar-H-G/Amar-H-G/main/github%20banner.png" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Amar Patra</h1>
 
 <h3 align="center">
