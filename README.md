@@ -47,7 +47,7 @@ I specialize in building scalable mobile and web applications with modern UI, sm
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,firebase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,firebase,git,github,vscode,html,css" />
 
 </p>
 
