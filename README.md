@@ -20,10 +20,26 @@ Building modern mobile applications with modern UI and smooth performance.
 
 # 👨‍💻 About Me
 
-- 📱 React Native Developer
-- ⚡ Focused on Clean UI
-- 🚀 Building modern mobile apps
-- 🌱 Currently learning advanced app architecture
+Hi, I'm Amar Patra — a passionate Full Stack Developer from India 🇮🇳
+
+I specialize in building scalable mobile and web applications with modern UI, smooth performance, and clean architecture.
+
+💼 Experience:
+- React Native App Development
+- Frontend UI Development
+- Backend API Integration
+- Firebase & Realtime Systems
+- Node.js Backend Development
+
+🚀 Currently Working On:
+- Grocery Delivery Applications
+- Realtime Chat Systems
+- Modern Mobile UI/UX
+
+🌱 Currently Learning:
+- Advanced Backend Architecture
+- System Design
+- Performance Optimization
 
 ---
 
