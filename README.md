@@ -53,6 +53,30 @@ I specialize in building scalable mobile and web applications with modern UI, sm
 
 ---
 
+# 💼 Experience
+
+## Full Stack Developer
+📅 2024 - Present
+
+- Building scalable mobile applications using React Native
+- Developing backend APIs with Node.js & Express
+- Firebase authentication & realtime database integration
+- Creating responsive modern UI designs
+- API integration and app optimization
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Amar-H-G&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</p>
+
+---
+
+
 # 🚀 Featured Projects
 
 ## 🛒 Grocery App
@@ -93,7 +117,11 @@ Realtime chat app using Firebase.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/amarpatra/">
-LinkedIn
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:amarpatra932@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
