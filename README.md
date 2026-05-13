@@ -128,7 +128,7 @@ Realtime chat app using Firebase.
 
 ---
 
-# 📊 Development Analytics
+# 📦 Repository Ecosystem
 
 <p align="center">
 
