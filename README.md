@@ -128,11 +128,17 @@ Realtime chat app using Firebase.
 
 ---
 
-# 🔥 Contribution Graph
+# 📊 Development Analytics
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amar-H-G&theme=tokyo-night" />
+<img src="https://img.shields.io/badge/Public%20Repos-16-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Private%20Repos-25+-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Total%20Repositories-41+-16a34a?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Contributions-840+-f97316?style=for-the-badge&logo=github&logoColor=white" />
 
 </p>
 
