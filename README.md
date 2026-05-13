@@ -118,13 +118,19 @@ Realtime chat app using Firebase.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Development Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amar-H-G&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amar-H-G&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-H-G&layout=compact&langs_count=8&theme=tokyonight"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Amar-H-G&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-H-G&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
