@@ -152,16 +152,32 @@ Realtime chat app using Firebase.
 
 ---
 
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/amarpatra/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:amarpatra932@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<a href="https://github.com/Amar-H-G">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://amar-portfolio.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+
+📧 amarpatra932@gmail.com • 🌍 India
 
 </p>
