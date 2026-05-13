@@ -75,7 +75,7 @@ I specialize in building scalable mobile and web applications with modern UI, sm
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,mysql,firebase,python,django,java,c,tailwind,html,css,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,mysql,firebase,python,django,java,c,tailwind,html,css,git,github,postman,vscode,antigravity,kiro,cursor,bold" />
 
 </p>
 
