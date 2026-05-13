@@ -4,11 +4,25 @@
 
 <p align="center">
 
-<a href="#-about-me">About</a> •
-<a href="#-featured-projects">Projects</a> •
-<a href="#-experience">Experience</a> •
-<a href="#-tech-stack">Skills</a> •
-<a href="#-connect-with-me">Contact</a>
+<a href="#-about-me">
+<img src="https://img.shields.io/badge/About-111827?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+</a>
+
+<a href="#-featured-projects">
+<img src="https://img.shields.io/badge/Projects-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="#-experience">
+<img src="https://img.shields.io/badge/Experience-0ea5e9?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
+<a href="#-tech-stack">
+<img src="https://img.shields.io/badge/Skills-16a34a?style=for-the-badge&logo=javascript&logoColor=white" />
+</a>
+
+<a href="#-connect-with-me">
+<img src="https://img.shields.io/badge/Contact-e11d48?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </p>
 
