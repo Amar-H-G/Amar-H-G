@@ -2,6 +2,16 @@
 <img width="100%" src="https://raw.githubusercontent.com/Amar-H-G/Amar-H-G/main/github%20banner.png" />
 </p>
 
+<p align="center">
+
+<a href="#-about-me">About</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-experience">Experience</a> •
+<a href="#-tech-stack">Skills</a> •
+<a href="#-connect-with-me">Contact</a>
+
+</p>
+
 <h1 align="center">Hi 👋, I'm Amar Patra</h1>
 
 <h3 align="center">
