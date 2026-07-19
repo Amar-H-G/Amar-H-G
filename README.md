@@ -102,7 +102,7 @@ I specialize in building scalable mobile and web applications with modern UI, sm
 
 </p>
 
----
+-----
 
 
 # 🚀 Featured Projects
