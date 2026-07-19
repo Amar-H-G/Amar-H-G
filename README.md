@@ -121,17 +121,13 @@ Realtime chat app using Firebase.
 # 📊 GitHub Statistics
 
 <p align="center">
+  <img width="46%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amar-H-G&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amar-H-G&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amar-H-G&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
+  <img width="46%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amar-H-G&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="98%" src="https://streak-stats.demolab.com?user=Amar-H-G&theme=tokyonight&hide_border=true"/>
-
+  <img width="85%" src="https://streak-stats.demolab.com?user=Amar-H-G&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
